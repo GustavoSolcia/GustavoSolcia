@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A computational physics PhD student</h3>
 
-- 🔭 I’m currently working on [Computational Fluid Dynamics](https://github.com/CIERMag-FFPaivaStudents/CFD)
+- 🔭 I’m currently working on using MRI for [Computational Fluid Dynamics](https://github.com/CIERMag-FFPaivaStudents/CFD) on brain arteries
 
-- 💬 Ask me about **Python, OpenFOAM, and Physics**
+- 💬 Ask me about **MRI, Python, OpenFOAM, and Physics**
 
 - 📫 How to reach me **gustavo.solcia@usp.br**
 
