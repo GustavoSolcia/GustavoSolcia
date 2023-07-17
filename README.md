@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">A computational physics PhD student</h3>
+<h3 align="center">A computational physics PhD candidate</h3>
 
 - 🔭 I’m currently working on using MRI for [Computational Fluid Dynamics](https://github.com/CIERMag-FFPaivaStudents/CFD) on brain arteries
 
