@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **gustavo.solcia@usp.br**
 
+- Don't forget to check out my lab organization! [CIERMag](https://github.com/CIERMag-FFPaivaStudents)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gustavosolcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gustavosolcia" height="30" width="40" /></a>
